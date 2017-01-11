@@ -1,8 +1,8 @@
 <?php
-namespace Versioning\Model;
+namespace Boxspaced\CmsVersioningModule\Model;
 
 use DateTime;
-use Account\Model\User;
+use Boxspaced\CmsAccountModule\Model\User;
 
 interface VersionableInterface
 {

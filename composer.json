@@ -7,7 +7,7 @@
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
-            "Versioning\\": "src/"
+            "Boxspaced\\CmsVersioningModule\\": "src/"
         }
     },
     "config": {
@@ -30,7 +30,7 @@
     ],
     "extra": {
         "zf": {
-            "module": "Versioning"
+            "module": "Boxspaced\\CmsVersioningModule"
         }
     }
 }

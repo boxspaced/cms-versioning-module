@@ -1,5 +1,5 @@
 <?php
-namespace Versioning;
+namespace Boxspaced\CmsVersioningModule;
 
 class Module
 {

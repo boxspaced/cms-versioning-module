@@ -1,7 +1,7 @@
 <?php
-namespace Versioning;
+namespace Boxspaced\CmsVersioningModule;
 
-use Core\Model\ServiceFactory;
+use Boxspaced\CmsCoreModule\Model\ServiceFactory;
 
 return [
     'service_manager' => [

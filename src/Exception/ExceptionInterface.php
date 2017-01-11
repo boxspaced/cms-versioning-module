@@ -1,5 +1,5 @@
 <?php
-namespace Versioning\Exception;
+namespace Boxspaced\CmsVersioningModule\Exception;
 
 interface ExceptionInterface
 {
